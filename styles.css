@@ -1,0 +1,16 @@
+body {
+    background: linear-gradient(135deg, #4e73df, #1cc88a);
+    height: 100vh;
+}
+
+.card {
+    border-radius: 15px;
+}
+
+h2 {
+    font-weight: bold;
+}
+
+small {
+    font-size: 14px;
+}
